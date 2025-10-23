@@ -1,5 +1,5 @@
 # Java-Baslangic
-# Bu projeler başlangıç seviyesinde javada kullanıcıdan veri alma(scanner) işlemleri,değişken tanımlamaları ve matematiksel hesaplamalar içerir.
+ Bu projeler başlangıç seviyesinde javada kullanıcıdan veri alma(scanner) işlemleri,değişken tanımlamaları ve matematiksel hesaplamalar içerir.
 
 # Nasıl Çalıştırılır (NetBeans Üzerinden)
 1. **NetBeans IDE**'yi aç.
